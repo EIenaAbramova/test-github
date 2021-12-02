@@ -2,7 +2,7 @@
 
 ## Часть 1. Основы
 
-* [Введение] (http://code.mu/ru/javascript/book/prime/basis/intro/)
+* [Введение](http://sabaka.net)
 * Переменные
 * Числа
 * Строки
