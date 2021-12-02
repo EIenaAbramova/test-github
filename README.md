@@ -3,10 +3,10 @@
 ## Часть 1. Основы
 
 1. [Введение](http://code.mu/ru/javascript/book/prime/basis/intro)
-+ Переменные
-+ Числа
-+ Строки
-+ Специальные значения
-+ Консоль
-+ Константы
-+ Примеры на переменные и операции
+2. [Переменные](http://code.mu/ru/javascript/book/prime/basis/variables) 
+3. [Числа](http://code.mu/ru/javascript/book/prime/basis/numbers) 
+4. [Строки](http://code.mu/ru/javascript/book/prime/basis/strings) 
+5. [Специальные значения](http://code.mu/ru/javascript/book/prime/basis/special-values) 
+6. [Консоль](http://code.mu/ru/javascript/book/prime/basis/console) 
+7. [Константы](http://code.mu/ru/javascript/book/prime/basis/constants)
+8. [Примеры на переменные и операции](http://code.mu/ru/javascript/book/prime/basis/variables-examples) 
