@@ -2,8 +2,8 @@
 
 ## Часть 1. Основы
 
-+ [Введение](http://code.mu/ru/javascript/book/prime/basis/intro)
-+ Переменные1. Пункт1.
++ [1.Введение](http://code.mu/ru/javascript/book/prime/basis/intro)
++ Переменные
 + Числа
 + Строки
 + Специальные значения
