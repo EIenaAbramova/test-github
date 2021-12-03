@@ -17,4 +17,4 @@
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Examples_on_variables_and_operations_in_JavaScript_8/variables_and_operations_8.js)
 
 
-
+![Alt-текст](file:///C:/Users/User/Desktop/test/Скриншот%2003-12-2021%20201129.jpg "Орк")
