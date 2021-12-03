@@ -17,5 +17,4 @@
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Examples_on_variables_and_operations_in_JavaScript_8/variables_and_operations_8.js)
 
 
-![Alt-текст](https://postimg.cc/4KbwH7xw "Орк")
 [![03-12-2021-201129.jpg](https://i.postimg.cc/kgmsVdFD/03-12-2021-201129.jpg)](https://postimg.cc/SJgC53Pp)
